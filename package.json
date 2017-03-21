@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clydeatuic/webdevatuic.git"
+    "url": "git+https://github.com/cestilloso/fnals.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/clydeatuic/webdevatuic/issues"
+    "url": "https://github.com/cestilloso/finals/issues"
   },
-  "homepage": "https://github.com/clydeatuic/webdevatuic#readme",
+  "homepage": "https://github.com/cestilloso/finals#readme",
   "dependencies": {
     "express": "^4.14.1"
   }
